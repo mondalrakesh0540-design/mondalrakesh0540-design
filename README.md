@@ -1,33 +1,23 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Rakesh%20Mandal&fontSize=48&fontColor=fff&animation=twinkling" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=BCA+Student+%40+Midnapore+City+College;Web+Developer+%26+Programmer;AI+Agent+Architect+(IBM+SkillsBuild);Passionate+Learner+%26+Builder" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=BCA+Student+%40+Midnapore+City+College;Web+Developer+%26+Programmer;AI+Agent+Architect+(IBM+SkillsBuild);Passionate+Learner+%26+Builder" alt="Typing SVG" />
 </div>
 
 <br />
 
-<table align="center">
-  <tr>
-    <td width="30%" align="center">
-     
-      
-      <b></b>
-    </td>
-    <td width="70%">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🎓 <b>Pursuing:</b> BCA (Bachelor in Computer Application) at <b>Midnapore City College</b> (Vidyasagar University)</li>
-        <li>💼 <b>Internship & Training:</b> <b>IBM SkillsBuild</b> - <i>From Learner to Builder: Become an AI Agent Architect</i></li>
-        <li>🌱 <b>Learning:</b> Full-Stack Web Development, Data Structures & Algorithms (DSA), AI Tools</li>
-        <li>👯 <b>Collaboration:</b> Open for Web Development & IoT Projects</li>
-        <li>📍 <b>Location:</b> Midnapore, Paschim Medinipur, West Bengal</li>
-        <li>⚡ <b>Fun Fact:</b> <i>I Love Logic and Logic Loves Me!</i></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 👨‍💻 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/mondalrakesh0540-design/mondalrakesh0540-design/main/avatar.jpg" width="160" style="border-radius:50%" />
+
+- 🎓 **Pursuing:** BCA (Bachelor in Computer Application) at **Midnapore City College** (Vidyasagar University)
+- 💼 **Internship & Training:** **IBM SkillsBuild** - *From Learner to Builder: Become an AI Agent Architect*
+- 🌱 **Currently Learning:** Full-Stack Web Development, Data Structures & Algorithms (DSA), AI Tools
+- 👯 **Looking to Collaborate on:** Web Development & IoT Projects
+- 📍 **Location:** Midnapore, Paschim Medinipur, West Bengal
+- ⚡ **Fun Fact:** *I Love Logic and Logic Loves Me!*
+
+<br clear="right"/>
 
 ---
 
