@@ -1,10 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Rakesh%20Mandal&fontSize=48&fontColor=fff&animation=twinkling" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=BCA+Student+%40+Midnapore+City+College;Web+Developer+%26+Programmer;AI+Agent+Architect+(IBM+SkillsBuild);Passionate+Learner+%26+Builder" alt="Typing SVG" />
+  <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px" alt="Waving Hand">, I'm Rakesh Mandal</h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&width=650&lines=%E2%9A%A1+BCA+Student+%40+Midnapore+City+College;%F0%9F%92%BB+Full-Stack+Web+Developer+%26+Programmer;%F0%9F%A4%96+AI+Agent+Architect+(IBM+SkillsBuild);%F0%9F%9A%80+Passionate+Learner+%26+Builder" alt="Typing SVG" />
 </div>
 
 <br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -15,7 +19,7 @@
 - 📍 **Location:** Midnapore, Paschim Medinipur, West Bengal
 - ⚡ **Fun Fact:** *I Love Logic and Logic Loves Me!*
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🛠️ Tech Stack & Skills
 
@@ -45,7 +49,7 @@
   <img src="https://img.shields.io/badge/AI_Agent_Architect-IBM_SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🚀 Featured Projects & Repositories
 
@@ -67,16 +71,20 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=mondalrakesh0540-design&theme=onedark" alt="GitHub Trophies" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 📊 GitHub Dashboard & Activity
+### 📊 GitHub Dashboard & Activity Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mondalrakesh0540-design&theme=tokyonight" width="97%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=mondalrakesh0540-design&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
@@ -87,7 +95,7 @@
   <img src="https://streak-stats.demolab.com/?user=mondalrakesh0540-design&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 📫 Connect With Me
 
