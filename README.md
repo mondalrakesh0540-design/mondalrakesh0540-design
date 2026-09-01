@@ -10,7 +10,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 👨‍💻 About Me & My Journey
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=45&section=header&text=About%20Me%20%26%20My%20Journey&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+</div>
+
+<br />
 
 - 🎓 **Pursuing:** BCA (Bachelor in Computer Application) at **Midnapore City College** (Vidyasagar University)
 - 💼 **Internship & Training:** **IBM SkillsBuild** - *From Learner to Builder: Become an AI Agent Architect*
@@ -21,7 +25,11 @@
 
 <br />
 
-### 🎯 Goals & Passions
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=45&section=header&text=Goals%20%26%20Passions&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+</div>
+
+<br />
 
 - 🚀 **Core Focus:** Building Scalable Web Applications & AI-Powered Tools
 - 💡 **Passion:** Solving Real-World Problems with Code & Clean Logic
@@ -29,7 +37,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🛠️ Tech Stack & Skills
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=45&section=header&text=Tech%20Stack%20%26%20Skills&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+</div>
+
+<br />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,py,js,html,css,react,nodejs,git,github,vscode&theme=dark" alt="Skill Icons" />
+</p>
 
 <p align="center">
   <b>Programming Languages:</b><br />
@@ -59,7 +75,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🚀 Featured Projects & Repositories
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=45&section=header&text=Featured%20Projects%20%26%20Repositories&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+</div>
+
+<br />
 
 <p align="center">
   <a href="https://github.com/mondalrakesh0540-design/rakesh-portfolio">
@@ -81,14 +101,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=45&section=header&text=GitHub%20Trophies%20%26%20Awards&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+</div>
+
+<br />
+
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=mondalrakesh0540-design&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 📊 Comprehensive Activity & Commit Analytics
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=45&section=header&text=Comprehensive%20Activity%20Dashboard&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+</div>
+
+<br />
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mondalrakesh0540-design&theme=tokyonight" width="97%" />
@@ -110,7 +139,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 💡 Daily Developer Quote & Humor
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=45&section=header&text=Daily%20Developer%20Quote%20%26%20Humor&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+</div>
+
+<br />
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="97%" />
@@ -122,7 +155,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 📫 Connect With Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=45&section=header&text=Connect%20With%20Me&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+</div>
+
+<br />
 
 <p align="center">
   <a href="mailto:Mondalrakesh3790@gmail.com">
@@ -136,3 +173,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mondalrakesh0540-design&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=100&section=footer" width="100%" />
+</div>
