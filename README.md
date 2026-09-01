@@ -26,12 +26,14 @@
 ---
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mondalrakesh0540-design&theme=onedark)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=mondalrakesh0540-design&theme=onedark)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mondalrakesh0540-design&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mondalrakesh0540-design&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mondalrakesh0540-design&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mondalrakesh0540-design&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mondalrakesh0540-design&theme=tokyonight)
