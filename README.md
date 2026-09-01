@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Rakesh%20Mandal&fontSize=48&fontColor=fffnimation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Rakesh%20Mandal&fontSize=48&fontColor=fff&animation=twinkling" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=BCA+Student+%40+Midnapore+City+College;Web+Developer+%26+Programmer;AI+Agent+Architect+(IBM+SkillsBuild);Passionate+Learner+%26+Builder" alt="Typing SVG" />
 </div>
@@ -8,16 +8,12 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/mondalrakesh0540-design/mondalrakesh0540-design/main/avatar.jpg" width="160" style="border-radius:50%" />
-
 - 🎓 **Pursuing:** BCA (Bachelor in Computer Application) at **Midnapore City College** (Vidyasagar University)
 - 💼 **Internship & Training:** **IBM SkillsBuild** - *From Learner to Builder: Become an AI Agent Architect*
 - 🌱 **Currently Learning:** Full-Stack Web Development, Data Structures & Algorithms (DSA), AI Tools
 - 👯 **Looking to Collaborate on:** Web Development & IoT Projects
 - 📍 **Location:** Midnapore, Paschim Medinipur, West Bengal
 - ⚡ **Fun Fact:** *I Love Logic and Logic Loves Me!*
-
-<br clear="right"/>
 
 ---
 
