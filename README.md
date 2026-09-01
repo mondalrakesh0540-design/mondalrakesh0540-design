@@ -61,6 +61,28 @@
 
 ---
 
+### 🚀 Featured Projects & Repositories
+
+<p align="center">
+  <a href="https://github.com/mondalrakesh0540-design/rakesh-portfolio">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mondalrakesh0540-design&repo=rakesh-portfolio&theme=tokyonight" alt="Rakesh Portfolio" width="48%" />
+  </a>
+  <a href="https://github.com/mondalrakesh0540-design/pricepulse">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mondalrakesh0540-design&repo=pricepulse&theme=tokyonight" alt="PricePulse" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mondalrakesh0540-design/aura-ai">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mondalrakesh0540-design&repo=aura-ai&theme=tokyonight" alt="Aura AI" width="48%" />
+  </a>
+  <a href="https://github.com/mondalrakesh0540-design/focusguard-camera">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mondalrakesh0540-design&repo=focusguard-camera&theme=tokyonight" alt="FocusGuard Camera" width="48%" />
+  </a>
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=mondalrakesh0540-design&theme=onedark" alt="GitHub Trophies" />
