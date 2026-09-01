@@ -11,9 +11,9 @@
 <table align="center">
   <tr>
     <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/mondalrakesh0540-design/mondalrakesh0540-design/main/avatar.jpg" width="180px" style="border-radius:50%" alt="Rakesh Mandal Avatar" />
-      <br /><br />
-      <b>🥷 Ninja Developer</b>
+     
+      
+      <b></b>
     </td>
     <td width="70%">
       <h3>👨‍💻 About Me</h3>
