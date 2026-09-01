@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me & My Journey
 
 - 🎓 **Pursuing:** BCA (Bachelor in Computer Application) at **Midnapore City College** (Vidyasagar University)
 - 💼 **Internship & Training:** **IBM SkillsBuild** - *From Learner to Builder: Become an AI Agent Architect*
@@ -18,6 +18,14 @@
 - 👯 **Looking to Collaborate on:** Web Development & IoT Projects
 - 📍 **Location:** Midnapore, Paschim Medinipur, West Bengal
 - ⚡ **Fun Fact:** *I Love Logic and Logic Loves Me!*
+
+<br />
+
+### 🎯 Goals & Passions
+
+- 🚀 **Core Focus:** Building Scalable Web Applications & AI-Powered Tools
+- 💡 **Passion:** Solving Real-World Problems with Code & Clean Logic
+- 🎯 **2026 Goal:** Master Modern Full-Stack Frameworks & Contribute to Major Open-Source Projects
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -80,10 +88,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 📊 GitHub Dashboard & Activity Summary
+### 📊 Comprehensive Activity & Commit Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mondalrakesh0540-design&theme=tokyonight" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mondalrakesh0540-design&theme=tokyonight&utcOffset=5.5" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mondalrakesh0540-design&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
@@ -93,6 +106,18 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mondalrakesh0540-design&theme=tokyonight" alt="GitHub Streak" width="97%" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 💡 Daily Developer Quote & Humor
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="60%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
